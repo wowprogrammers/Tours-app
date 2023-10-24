@@ -1,7 +1,7 @@
 {
-  "name": "aggregation-pipeline",
+  "name": "Tours App",
   "version": "1.0.0",
-  "description": "In this project I am going to implement Aggregation Pipeline in mongoose(mongoDB)",
+  "description": "",
   "main": "app.js",
   "type": "module",
   "scripts": {
